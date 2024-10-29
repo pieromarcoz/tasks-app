@@ -33,6 +33,10 @@
    ```
    php artisan migrate --seed
    ```
+ 6. Instale las dependencias de node y corra vite:
+   ```
+   npm i && npm run dev
+   ```
 
 ## Desarrollo
 
