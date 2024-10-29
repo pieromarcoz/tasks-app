@@ -1,3 +1,10 @@
+## Seguridad
+La aplicación utiliza Laravel Sanctum para la autenticación y seguridad:
+- Protección de rutas mediante middleware auth
+- Tokens de acceso para API
+- Protección CSRF
+- Validación de sesiones
+
 ## Requisitos del Sistema
 
 - PHP 8.2 o superior
