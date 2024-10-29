@@ -10,6 +10,16 @@ export default {
     ],
 
     theme: {
+        container: {
+            center: true,
+            padding: {
+                DEFAULT: '1.5rem',
+                sm: '1rem',
+                lg: '1rem',
+                xl: '4rem',
+                '2xl': '10em',
+            },
+        },
         extend: {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
