@@ -9,7 +9,7 @@
 1. Clona el repositorio:
    ```
    git clone https://github.com/pieromarcoz/tasks-app
-   cd app-notas-back
+   cd tasks-app
    ```
 
 2. Instala las dependencias de PHP:
